@@ -35,7 +35,7 @@ Then copy-paste this code and write it in VSCosde/Pycharm/Atom/sublime/ your fav
 Then go on command line(cmd) and type the following commands
 
       $python -v
-
+      
       $ C:\python37\python.exe Z:\code\folder\invisible_shirt.py
       
  By doing the following steps you can run this python script.
