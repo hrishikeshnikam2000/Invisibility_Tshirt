@@ -1,8 +1,8 @@
-# Invisible_Shirt
+# Invisiblity_Shirt
 
-A fun invisiblity See-Through shirt in which a shirt of red color gets invisible
+The aim of making this was to emulate a fun see-through project where we can see through the T-shirt worn by the person in front on the camera.
 
-Basically we can see through it.
+It's like putting on a tshirt through which you become invisible, and we can see what's behind the person wearing it.
 
 It is built using the following libraries.
   
@@ -16,6 +16,7 @@ Please install the required libraries.
 
 Designed for red color beacuse i was wearing a red tshirt while writting code for it.
 
+
 ## How to run this project if you have anaconda installed :-
 
 You need ANACONDA for running this project. This notebook runs once we execute all cells in the notebook one by one.
@@ -26,7 +27,8 @@ To run cells press the commands:-
       
 As you progress through each cell.
 
-By doing the following steps you can run JUPYTER notebook.
+By doing the following steps you can run this JUPYTER notebook.
+
 
 ## In case you don't want to/ can't install ANACONDA:- 
 
