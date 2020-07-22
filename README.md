@@ -28,7 +28,7 @@ As you progress through each cell.
 
 By doing the following steps you can run JUPYTER notebook.
 
-# In case you don't want to/ can't install ANACONDA:[- 
+# In case you don't want to/ can't install ANACONDA:- 
 
 Then copy-paste this code and write it in VSCosde/Pycharm/Atom/sublime/ your favorite code-editor.
 
