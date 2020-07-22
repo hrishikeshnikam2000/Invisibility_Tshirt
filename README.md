@@ -16,11 +16,19 @@ Please install the required libraries.
 
 Designed for red color beacuse i was wearing a red tshirt while writting code for it.
 
-##How to run this project:-
+#How to run this project:-
 
 You need ANACONDA for running this project. This notebook runs once we execute all cells in the notebook one by one.
 
-###In case you don't want to/ can't install ANACONDA , then take this code and write it in VSCosde/Pycharm/Atom/sublime/ your favorite code-editor.
+To run cells press the commands:- 
+      
+      shift + enter
+      
+As you progress through each cell.
+
+By doing the following steps you can run JUPYTER notebook.
+
+#In case you don't want to/ can't install ANACONDA , then take this code and write it in VSCosde/Pycharm/Atom/sublime/ your favorite code-editor.
 
 Then go on command line(cmd) and type the following commands
 
@@ -28,7 +36,9 @@ Then go on command line(cmd) and type the following commands
 
       $ C:\python37\python.exe Z:\code\folder\invisible_shirt.py
       
- By doing the fiollowing steps you can run this python script.
+ By doing the following steps you can run this python script.
+ 
+ 
  
  
 Thank-You for having a look!
