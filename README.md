@@ -4,7 +4,7 @@ The aim of making this was to emulate a fun see-through project where we can see
 
 It's like putting on a tshirt through which you become invisible, and we can see what's behind the person wearing it.
 
-It is built using the following libraries.
+It is built using the following libraries:-
   
         OpenCV
         numpy
@@ -14,7 +14,7 @@ It is built using the following libraries.
 Please install the required libraries.
 
 
-Designed for red color beacuse i was wearing a red tshirt while writting code for it.
+Designed for red color beacuse i was wearing a red tshirt while writting code for it :)
 
 
 ## How to run this project if you have anaconda installed :-
@@ -34,7 +34,7 @@ By doing the following steps you can run this JUPYTER notebook.
 
 Then copy-paste this code and write it in VSCosde/Pycharm/Atom/sublime/ your favorite code-editor.
 
-Then go on command line(cmd) and type the following commands
+Then go on command line(cmd) and type the following commands:-
 
       $python -v
       
