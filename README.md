@@ -1,6 +1,6 @@
 # Invisiblity_Shirt
 
-The aim of making this was to emulate a fun see-through project where we can see through the T-shirt worn by the person in front on the camera.
+The aim of making this project was to emulate a fun see-through project where we can see through the T-shirt worn by the person in front on the camera.
 
 It's like putting on a tshirt through which you become invisible, and we can see what's behind the person wearing it.
 
